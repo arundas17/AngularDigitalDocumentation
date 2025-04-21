@@ -1,0 +1,22 @@
+    
+    .registration{
+        display: flex;
+        justify-content: center;
+        align-items: left;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 500px;
+    }
+    input{
+    padding: 10px;
+    border-radius: 20px;
+    outline: none !important;
+    border: none;
+    margin-bottom: 10px;
+    }
+    label{
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+    
+   
